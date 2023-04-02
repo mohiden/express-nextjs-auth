@@ -15,7 +15,7 @@ const main = async (app: Application) => {
     // connect to db.
     await makeConnection();
 
-    app.listen(3000, () => {
+    app.listen(process.env.PORT, () => {
         console.log("Running!");
     })
 

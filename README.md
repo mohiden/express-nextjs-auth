@@ -48,6 +48,7 @@ yarn
 3. Set up environment variables by creating a .env file in the root directory of the project, and adding the following variables:
 
 ```bash
+PORT=
 ACCESS_TOKEN_SECRET=
 DB_URI=
 TWILIO_ACCOUNT_SID=
