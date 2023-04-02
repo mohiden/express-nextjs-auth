@@ -16,7 +16,7 @@ This project is a web application built with Next.js and Node.js/Express, implem
 - User authentication: sign up, login, and password reset
 - Frontend built with Next.js, a popular React framework
 - Backend built with Node.js/Express, a fast and minimalistic web framework
-- Passwords are hashed using bcrypt, a popular password-hashing library
+- Passwords are hashed using argon2, a popular password-hashing library
 - Sessions are managed with the express-session middleware and stored in memory by default
 - Frontend and backend are configured to work together seamlessly
 
