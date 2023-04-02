@@ -27,7 +27,7 @@ This project uses the following technologies:
 - Next.js
 - Node.js
 - Express
-- bcrypt
+- argon2
 - express-session
 
 ## Installation
