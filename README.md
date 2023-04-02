@@ -35,7 +35,7 @@ This project uses the following technologies:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/mohiden/yourproject.git
+   git clone https://github.com/mohiden/express-nextjs-auth.git
    ```
 
 2. Install the dependencies:
