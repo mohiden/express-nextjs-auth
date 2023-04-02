@@ -1,7 +1,7 @@
 import mongoose from "mongoose";
 
 
-const URI = "mongodb://127.0.0.1:27017/todo-assignment"
+const URI = process.env.DATABASE_URI!;
 
 export const makeConnection = async () => {
     try {
